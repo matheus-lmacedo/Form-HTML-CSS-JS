@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    background-image: url(../images/background.png);
+    background-position: center;
+    background-size: contain;
+}
+
+.container .info{
+    width: 300px;
+    height: 111px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container .info h1{
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 11px;
+}
+
+.container .info p{
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.formulario{
+    background-color: #fff;
+    width: 340px;
+    height: 390px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario .inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario .inputs .input{
+    width: 100%;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.formulario h2{
+    color: #000000;
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 11px;
+}
+
+.botao-enviar{
+    cursor: pointer;
+    color: #fff;
+    background: #3CCC87;
+    border: none;
+    min-width: 300px;
+    min-height: 42px;
+    border-radius: 5px;
+}
+
+.obrigatorio{
+    cursor: default;
+    opacity: 0;
+    color: red;
+    margin-bottom: 6px;
+}
+
+.mostrar{
+    opacity: 1;
+}
+
+.input.preenchido{
+    border: 1px solid #00C22B;
+}
+
+.input.nao-preenchido{
+    border: 1px solid #F52E2E;
+}
