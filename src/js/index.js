@@ -1,5 +1,4 @@
 const inputs = document.querySelectorAll('.input');
-const botaoEnviar = document.getElementById('botao');
 const obrigatorio = document.querySelectorAll('.obrigatorio');
 const formulario = document.querySelector('.formulario');
 
