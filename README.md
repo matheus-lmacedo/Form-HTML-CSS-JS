@@ -3,8 +3,7 @@
 A modern and responsive **Form** created with **HTML**, **CSS**, and **Vanilla JavaScript**. This project showcases a clean, user-friendly form layout, providing an intuitive experience with sleek and modern design.
 
 🔗 **Live Preview:**  
-👉 [Click here to visit the site](https://matheus-lmacedo.github.io/form-design/)  
-> _(Replace with the actual link if different)_
+👉 [Click here to visit the site](https://matheus-lmacedo.github.io/Form-HTML-CSS-JS/)  
 
 ---
 
@@ -42,10 +41,10 @@ To run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/matheus-lmacedo/form-design.git
+   git clone https://github.com/matheus-lmacedo/Form-HTML-CSS-JS.git
 2. Navigate to the project folder:
    ```bash
-   cd gta-landing-page
+   cd Form-HTML-CSS-JS
 Happy coding! 🚀👨‍💻
 
 ## 📄 License
