@@ -15,13 +15,9 @@ A modern and responsive **Form** created with **HTML**, **CSS**, and **Vanilla J
 
 ---
 
-## 📱 Responsive Design
+### 💻 Design Preview
 
-This form is fully responsive and adapts smoothly to different screen sizes. Below are live previews of the form in both **desktop** and **mobile** views.
-
-### 💻 Desktop Preview
-
-![Desktop GIF Preview](./design/Design.gif)
+![Design GIF Preview](./design/Design.gif)
 
 ---
 
