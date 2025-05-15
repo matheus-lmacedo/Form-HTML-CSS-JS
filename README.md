@@ -17,7 +17,7 @@ A modern and responsive **Form** created with **HTML**, **CSS**, and **Vanilla J
 
 ### 💻 Design Preview
 
-![Design GIF Preview](../design/Design.gif)
+![Design GIF Preview](./design/Design.gif)
 
 ---
 
